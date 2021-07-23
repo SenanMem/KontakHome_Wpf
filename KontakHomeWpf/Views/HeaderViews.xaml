@@ -39,8 +39,7 @@
                 </materialDesign:Badged>
                 <ListView>
                     <ContentControl>
-                        <Button
-                            Click="Button_Click">
+                        <Button>
                             <materialDesign:PackIcon Kind="Cellphone"/>
                             
                         </Button>
