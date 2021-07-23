@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "data source=STHQ0123-04;initial catalog=KontaktHome;persist security info=True;user id=admin;password=admin;MultipleActiveResultSets=True;App=EntityFramework"
+  }
+}
